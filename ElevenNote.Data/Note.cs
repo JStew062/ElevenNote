@@ -13,7 +13,7 @@ namespace ElevenNote.Data
         public int NoteId { get; set; }
 
         [Required]
-        public Guid OwnerID { get; set; }
+        public Guid OwnerId { get; set; }
 
         [Required]
         public string Title { get; set; }
@@ -23,7 +23,7 @@ namespace ElevenNote.Data
         public string Content { get; set; }
 
         [Required]
-        public DateTimeOffset CreateUtc { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
 
         public DateTimeOffset? ModifiedUtc { get; set; }
     }
