@@ -33,3 +33,6 @@ C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\Elev
 C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\Jim\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.initilmgrin.resources
